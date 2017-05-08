@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DoanDy/ClickerRPG/issues"
   },
-  "homepage": "https://github.com/DoanDy/ClickerRPG#readme"
+  "homepage": "https://github.com/DoanDy/ClickerRPG#readme",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
 }
