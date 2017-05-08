@@ -1,0 +1,9 @@
+{
+  "name": "ClickerRPG",
+  "version": "1.0.0",
+  "app": {
+    "background": {
+      "scripts": ["chrome-app-host.js"]
+    }
+  }
+}
